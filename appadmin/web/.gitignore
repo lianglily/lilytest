@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.htaccess
+!assets/
+!download/*
+!favicon.ico
+!robots.php
+!skin/

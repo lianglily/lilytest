@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.htaccess
+!assets
+!favicon.ico
+!gss.xsl
+!cn
+!fr
+!it
+!install.php
